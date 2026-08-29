@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+faker
+streamlit
+pyngrok
+requests
+openai
+fastapi
+uvicorn
+pydantic
+razorpay
+google-generativeai
