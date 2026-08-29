@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# API keys and secrets
+secrets/
+credentials/
+*.key
+*.pem
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Trained models
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Google Colab
+/content/
+
+# OS files
+.DS_Store
+Thumbs.db
